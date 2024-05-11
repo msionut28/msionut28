@@ -33,3 +33,8 @@ Whether you just want to say **Hi**, follow my projects' updates, or discuss pot
 ## WORK IN PROGRESS 🏗
 
 I am currently working on **[WebVenture](https://github.com/msionut28/webVenture-quest/tree/dev)** - a web app built with **Next.js 14**, **TypeScript**, **Tailwind CSS** and **Prisma**, using a **PostgreSQL** database that is meant to help children learn the basics of HTML/JS/CSS.
+<br>
+<br>
+<br>
+
+![msionut28's Stats](https://github-readme-stats.vercel.app/api?username=msionut28&theme=dark&show_icons=true&hide_border=true&count_private=true)
